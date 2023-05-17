@@ -1,0 +1,1 @@
+define({availablePdf: ["Food_management_innovations_for_reducing_food_wast"]});
